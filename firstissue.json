@@ -1298,9 +1298,8 @@
     "zitadel/zitadel",
     "zsh-users/zsh-completions",
     "zsh-users/zsh-syntax-highlighting",
-    "zulip/zulip",
-    "microsoft/vscode"
-  ],
+    "zulip/zulip"
+   ],
   "labels": [
     "good first issue",
     "help wanted"
